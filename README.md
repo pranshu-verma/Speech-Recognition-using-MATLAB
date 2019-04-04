@@ -31,8 +31,8 @@ for example,
   
   Smallest distance is d2 = 50 so the detected class will be User 2.
   
-  ### Note_1: I've added comments to every line which indicate their meaning in the MATLAB file.
-  ### Note_2: This code only takes a maximum of 2 users. Feel free to update it for as many users you want.
+  ##### Note_1: I've added comments to every line which indicate their meaning in the MATLAB file.
+  ##### Note_2: This code only takes a maximum of 2 users. Feel free to update it for as many users you want.
   
-  ### Thank You,
-  ### Pranshu Verma  
+  ##### Thank You,
+  ##### Pranshu Verma  
